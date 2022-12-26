@@ -22,3 +22,6 @@ while number not in check_range and prodNum < 100:
         second_integer = int(input('what is the second integer? '))
         prodNum -= second_integer
         print(prodNum)
+else:
+    print(prodNum)
+    break
