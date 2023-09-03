@@ -1,1 +1,1 @@
-Baruch College - CIS 2300
+CIS 2300
